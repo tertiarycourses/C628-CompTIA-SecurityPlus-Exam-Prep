@@ -1,0 +1,4 @@
+source-wsq/
+.env
+.DS_Store
+__pycache__/
