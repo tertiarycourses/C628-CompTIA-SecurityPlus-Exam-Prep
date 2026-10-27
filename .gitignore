@@ -1,4 +1,27 @@
-source-wsq/
+# Assessment materials (this course has none; kept for safety)
+/assessment/
+/assessment\ /
+**/FG_*
+**/FG-*
+**/Assessment_Plan_*
+**/AP-*
+
+# Source material used only to derive this course — never publish it
+/reference/
+/source-wsq/
+
+# Superseded versions and local backups (moved, never deleted)
+/Archive/
+courseware/archive/
+
+# Local tooling and secrets
+.claude/
 .env
+.env.*
+.playwright-mcp/
+
+# OS / build noise
 .DS_Store
-__pycache__/
+**/__pycache__/
+*.pyc
+/dashboard.png
